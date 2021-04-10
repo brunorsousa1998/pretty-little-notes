@@ -1,0 +1,7 @@
+.lista-de-notas {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: var(--chumbo);
+  justify-content: center;
+  flex-grow: 1;
+}

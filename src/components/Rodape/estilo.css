@@ -1,0 +1,19 @@
+.rodape {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: var(--vermelho);
+}
+
+.rodape__informacao, .rodape__icone {
+  margin: .2rem 1rem;
+}
+
+.rodape__informacao {
+  color: var(--branco);
+  font: 1rem 'Nunito Sans', sans-serif;  
+}
+
+.rodape__icone {
+  fill: var(--branco);
+}
