@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pretty-little-notes/static/css/main.60f0f41b.chunk.css",
+    "main.js": "/pretty-little-notes/static/js/main.78991aa3.chunk.js",
+    "main.js.map": "/pretty-little-notes/static/js/main.78991aa3.chunk.js.map",
+    "runtime-main.js": "/pretty-little-notes/static/js/runtime-main.1f7e6995.js",
+    "runtime-main.js.map": "/pretty-little-notes/static/js/runtime-main.1f7e6995.js.map",
+    "static/js/2.71b21252.chunk.js": "/pretty-little-notes/static/js/2.71b21252.chunk.js",
+    "static/js/2.71b21252.chunk.js.map": "/pretty-little-notes/static/js/2.71b21252.chunk.js.map",
+    "index.html": "/pretty-little-notes/index.html",
+    "static/css/main.60f0f41b.chunk.css.map": "/pretty-little-notes/static/css/main.60f0f41b.chunk.css.map",
+    "static/js/2.71b21252.chunk.js.LICENSE.txt": "/pretty-little-notes/static/js/2.71b21252.chunk.js.LICENSE.txt",
+    "static/media/delete.1129c53a.svg": "/pretty-little-notes/static/media/delete.1129c53a.svg",
+    "static/media/github.04be58c1.svg": "/pretty-little-notes/static/media/github.04be58c1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f7e6995.js",
+    "static/js/2.71b21252.chunk.js",
+    "static/css/main.60f0f41b.chunk.css",
+    "static/js/main.78991aa3.chunk.js"
+  ]
+}
